@@ -37,7 +37,7 @@ Klingri
 
 ## License
 
-This project is licensed under the GNU AGPLv3 License - see the LICENSE.md file for details
+This project is licensed under the ISC License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
